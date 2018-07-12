@@ -1,5 +1,7 @@
 # README #
 
+## Forked from [Simfreed/AFINES](https://github.com/Simfreed/AFINES). The following is the content of their README
+
 ### AFiNeS: Active Filament Network Simulation ###
 
 ##### as detailed in : #####
